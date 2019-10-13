@@ -142,7 +142,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [x] [A Visual Introduction to Machine Learning - part I](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
   - [x] [Decision Trees: a Simple Way to Visualize a Decision](https://medium.com/greyatom/decision-trees-a-simple-way-to-visualize-a-decision-dc506a403aeb)
 - [x] [A Visual Introduction to Machine Learning - part II](http://www.r2d3.us/visual-intro-to-machine-learning-part-2/)
-- [ ] [A Gentle Guide to Machine Learning](https://blog.monkeylearn.com/a-gentle-guide-to-machine-learning/)
+- [x] [A Gentle Guide to Machine Learning](https://blog.monkeylearn.com/a-gentle-guide-to-machine-learning/)
   - [x] [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning)
   - [x] [Supervised Learning](https://en.wikipedia.org/wiki/Supervised_learning)
   - [x] [Unsupervised Learning](https://en.wikipedia.org/wiki/Unsupervised_learning)
