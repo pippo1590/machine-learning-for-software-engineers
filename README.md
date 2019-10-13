@@ -141,7 +141,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 ## Machine learning overview
 - [x] [A Visual Introduction to Machine Learning - part I](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
   - [x] [Decision Trees: a Simple Way to Visualize a Decision](https://medium.com/greyatom/decision-trees-a-simple-way-to-visualize-a-decision-dc506a403aeb)
-- [ ] [A Visual Introduction to Machine Learning - part II](http://www.r2d3.us/visual-intro-to-machine-learning-part-2/)
+- [x] [A Visual Introduction to Machine Learning - part II](http://www.r2d3.us/visual-intro-to-machine-learning-part-2/)
 - [ ] [A Gentle Guide to Machine Learning](https://blog.monkeylearn.com/a-gentle-guide-to-machine-learning/)
 - [ ] [Introduction to Machine Learning for Developers](http://blog.algorithmia.com/introduction-machine-learning-developers/)
 - [ ] [Machine Learning basics for a newbie](https://www.analyticsvidhya.com/blog/2015/06/machine-learning-basics/)
