@@ -154,8 +154,10 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [Machine learning in Python with scikit-learn](https://www.youtube.com/watch?v=elojMnjn4kk&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=1)
   - [x] What is machine learning, and how does it work?
   - [x] Setting up Python for machine learning
-  - [ ] Getting started with sci-kit learn
-  - [ ] ...
+  - [x] Getting started with sci-kit learn
+  - [x] Training a machine learning model with scikit-learn
+    - [ ] [Nearest Neighbors](https://scikit-learn.org/stable/modules/neighbors.html)
+  - [ ] Comparing machine learning models
 - [ ] [Deep Learning - A Non-Technical Introduction](http://www.slideshare.net/AlfredPong1/deep-learning-a-nontechnical-introduction-69385936)
 
 ## Machine learning mastery
