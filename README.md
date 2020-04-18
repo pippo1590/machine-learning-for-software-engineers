@@ -156,7 +156,9 @@ Each day I take one subject from the list below, read it cover to cover, take no
   - [x] Setting up Python for machine learning
   - [x] Getting started with sci-kit learn
   - [x] Training a machine learning model with scikit-learn
-    - [ ] [Nearest Neighbors](https://scikit-learn.org/stable/modules/neighbors.html)
+    - [x] [Machine Learning Basics with the K-Nearest Neighbors Algorithm](https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761)
+    - [x] [Nearest Neighbors](https://scikit-learn.org/stable/modules/neighbors.html)
+    - [x] [K-D Tree](https://en.wikipedia.org/wiki/K-d_tree)
   - [ ] Comparing machine learning models
 - [ ] [Deep Learning - A Non-Technical Introduction](http://www.slideshare.net/AlfredPong1/deep-learning-a-nontechnical-introduction-69385936)
 
