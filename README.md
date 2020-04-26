@@ -32,7 +32,7 @@ This short section were prerequisites/interesting info I wanted to learn before 
     - [x] [Nearest Neighbors](https://scikit-learn.org/stable/modules/neighbors.html)
     - [x] [K-D Tree](https://en.wikipedia.org/wiki/K-d_tree)
   - [x] Comparing machine learning models
-    - [ ] [Undestanding the Bias-Variance Tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html)
+    - [x] [Undestanding the Bias-Variance Tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html)
    - [ ] Pandas, Seaborn, SciKit-Learn
    - [ ] Selecting the best model using Cross Validation
    - [ ] ...
