@@ -32,7 +32,6 @@ This short section were prerequisites/interesting info I wanted to learn before 
     - [x] [Nearest Neighbors](https://scikit-learn.org/stable/modules/neighbors.html)
     - [x] [K-D Tree](https://en.wikipedia.org/wiki/K-d_tree)
   - [x] Comparing machine learning models
-    - [ ] [Intuitive explanation of OverFitting](https://www.quora.com/What-is-an-intuitive-explanation-of-over-fitting-particularly-with-a-small-sample-set-What-are-you-essentially-doing-by-over-fitting-How-does-the-over-promise-of-a-high-R%C2%B2-low-standard-error-occur/answer/Jessica-Su)
     - [ ] [Undestanding the Bias-Variance Tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html)
    - [ ] Pandas, Seaborn, SciKit-Learn
    - [ ] Selecting the best model using Cross Validation
