@@ -2,7 +2,7 @@
 - Naive Bayes
 - Decision Tree
 - K-Nearest Neighbors
-- 
+- Linear Regression
 
 ## Prerequisite Knowledge
 
