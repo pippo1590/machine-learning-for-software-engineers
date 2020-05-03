@@ -33,7 +33,8 @@ This short section were prerequisites/interesting info I wanted to learn before 
     - [x] [K-D Tree](https://en.wikipedia.org/wiki/K-d_tree)
   - [x] Comparing machine learning models
     - [x] [Undestanding the Bias-Variance Tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html)
-   - [ ] Pandas, Seaborn, SciKit-Learn
+   - [x] Pandas, Seaborn, SciKit-Learn
+    - [x] [Linear Regression](http://www.stat.yale.edu/Courses/1997-98/101/linreg.htm)
    - [ ] Selecting the best model using Cross Validation
    - [ ] ...
 - [ ] [Deep Learning - A Non-Technical Introduction](http://www.slideshare.net/AlfredPong1/deep-learning-a-nontechnical-introduction-69385936)
