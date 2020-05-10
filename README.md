@@ -35,7 +35,8 @@ This short section were prerequisites/interesting info I wanted to learn before 
     - [x] [Undestanding the Bias-Variance Tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html)
   - [x] Pandas, Seaborn, SciKit-Learn
     - [x] [Linear Regression](http://www.stat.yale.edu/Courses/1997-98/101/linreg.htm)
-  - [ ] Selecting the best model using Cross Validation
+  - [x] Selecting the best model using Cross Validation
+    - [ ] [An Introduction to Feature Selection](https://machinelearningmastery.com/an-introduction-to-feature-selection/)
   - [ ] ...
 - [ ] [Deep Learning - A Non-Technical Introduction](http://www.slideshare.net/AlfredPong1/deep-learning-a-nontechnical-introduction-69385936)
 
