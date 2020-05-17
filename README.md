@@ -36,8 +36,8 @@ This short section were prerequisites/interesting info I wanted to learn before 
   - [x] Pandas, Seaborn, SciKit-Learn
     - [x] [Linear Regression](http://www.stat.yale.edu/Courses/1997-98/101/linreg.htm)
   - [x] Selecting the best model using Cross Validation
-    - [ ] [An Introduction to Feature Selection](https://machinelearningmastery.com/an-introduction-to-feature-selection/)
-  - [ ] Find the best model Parameters
+    - [x] [An Introduction to Feature Selection](https://machinelearningmastery.com/an-introduction-to-feature-selection/)
+  - [x] Find the best model Parameters
   - [ ] Evaluate a Classifier
   - [ ] Encode Categorical Features
   - [ ] Machine Learning with Text
