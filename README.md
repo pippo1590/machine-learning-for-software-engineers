@@ -37,7 +37,10 @@ This short section were prerequisites/interesting info I wanted to learn before 
     - [x] [Linear Regression](http://www.stat.yale.edu/Courses/1997-98/101/linreg.htm)
   - [x] Selecting the best model using Cross Validation
     - [ ] [An Introduction to Feature Selection](https://machinelearningmastery.com/an-introduction-to-feature-selection/)
-  - [ ] ...
+  - [ ] Find the best model Parameters
+  - [ ] Evaluate a Classifier
+  - [ ] Encode Categorical Features
+  - [ ] Machine Learning with Text
 - [ ] [Deep Learning - A Non-Technical Introduction](http://www.slideshare.net/AlfredPong1/deep-learning-a-nontechnical-introduction-69385936)
 
 ## Machine learning mastery
