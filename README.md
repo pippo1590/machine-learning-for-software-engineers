@@ -39,7 +39,7 @@ This short section were prerequisites/interesting info I wanted to learn before 
     - [x] [An Introduction to Feature Selection](https://machinelearningmastery.com/an-introduction-to-feature-selection/)
   - [x] Find the best model Parameters
   - [x] Evaluate a Classifier
-  - [ ] Encode Categorical Features
+  - [x] Encode Categorical Features
   - [ ] Machine Learning with Text
 - [ ] [Deep Learning - A Non-Technical Introduction](http://www.slideshare.net/AlfredPong1/deep-learning-a-nontechnical-introduction-69385936)
 
